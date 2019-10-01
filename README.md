@@ -1,2 +1,2 @@
 # movie-recommender
-Recommendar for movies
+Recommender for movies
